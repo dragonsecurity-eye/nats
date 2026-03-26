@@ -1,3 +1,5 @@
+github.com/dragonsecurity-eye/dragonuem-ansible-config v0.1.0 h1:RzsCbhyTg6xXoE6nb+qekqsoYXbSC8NSdVd3K5p6/FM=
+github.com/dragonsecurity-eye/dragonuem-ansible-config v0.1.0/go.mod h1:Hgg7DRjca06yzorm1KTA3aBZl2ozpx5GyQTv/dc6vP0=
 github.com/dragonsecurity-eye/wingetcfg v0.1.0 h1:Hryrg4sxlPsgwGQ9cu5Qip0efMtVrxxGuhyjJOsCfdQ=
 github.com/dragonsecurity-eye/wingetcfg v0.1.0/go.mod h1:6/d7VfUcJdvFAM+HdDLCcE7xK+J4jCTJ8k8d5POTDu8=
 github.com/klauspost/compress v1.18.5 h1:/h1gH5Ce+VWNLSWqPzOVn6XBO+vJbCNGvjoaGBFW2IE=

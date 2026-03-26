@@ -7,7 +7,7 @@ replace eye.dragonsecurity.io/wingetcfg => github.com/dragonsecurity-eye/wingetc
 replace eye.dragonsecurity.io/dragonuem-ansible-config => github.com/dragonsecurity-eye/dragonuem-ansible-config v0.1.0
 
 require (
-	eye.dragonsecurity.io/dragonuem-ansible-config v0.0.0-00010101000000-000000000000
+	eye.dragonsecurity.io/dragonuem-ansible-config v0.1.0
 	eye.dragonsecurity.io/wingetcfg v0.1.0
 	github.com/nats-io/nats.go v1.50.0
 )
