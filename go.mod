@@ -1,10 +1,13 @@
 module eye.dragonsecurity.io/nats
 
-go 1.25.5
+go 1.26.1
 
 replace eye.dragonsecurity.io/wingetcfg => github.com/dragonsecurity-eye/wingetcfg v0.1.0
 
+replace eye.dragonsecurity.io/dragonuem-ansible-config => github.com/dragonsecurity-eye/dragonuem-ansible-config v0.1.0
+
 require (
+	eye.dragonsecurity.io/dragonuem-ansible-config v0.0.0-00010101000000-000000000000
 	eye.dragonsecurity.io/wingetcfg v0.1.0
 	github.com/nats-io/nats.go v1.50.0
 )

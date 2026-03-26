@@ -1,6 +1,7 @@
 package nats
 
 import (
+	ansiblecfg "eye.dragonsecurity.io/dragonuem-ansible-config/ansible"
 	"eye.dragonsecurity.io/wingetcfg/wingetcfg"
 )
 
