@@ -1,6 +1,6 @@
 module eye.dragonsecurity.io/nats
 
-go 1.26.1
+go 1.26.2
 
 replace eye.dragonsecurity.io/wingetcfg => github.com/dragonsecurity-eye/wingetcfg v0.1.0
 
