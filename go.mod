@@ -9,7 +9,7 @@ replace eye.dragonsecurity.io/dragonuem-ansible-config => github.com/dragonsecur
 require (
 	eye.dragonsecurity.io/dragonuem-ansible-config v0.1.0
 	eye.dragonsecurity.io/wingetcfg v0.1.0
-	github.com/nats-io/nats.go v1.50.0
+	github.com/nats-io/nats.go v1.51.0
 )
 
 require (
