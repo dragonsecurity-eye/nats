@@ -2,8 +2,8 @@ github.com/dragonsecurity-eye/dragonuem-ansible-config v0.1.0 h1:RzsCbhyTg6xXoE6
 github.com/dragonsecurity-eye/dragonuem-ansible-config v0.1.0/go.mod h1:Hgg7DRjca06yzorm1KTA3aBZl2ozpx5GyQTv/dc6vP0=
 github.com/dragonsecurity-eye/wingetcfg v0.1.0 h1:Hryrg4sxlPsgwGQ9cu5Qip0efMtVrxxGuhyjJOsCfdQ=
 github.com/dragonsecurity-eye/wingetcfg v0.1.0/go.mod h1:6/d7VfUcJdvFAM+HdDLCcE7xK+J4jCTJ8k8d5POTDu8=
-github.com/klauspost/compress v1.20.0 h1:a3C1ke2ohxFymNlb2HWAHjDeKCI90scRskErZkR0ezA=
-github.com/klauspost/compress v1.20.0/go.mod h1:LUdAzn7YLVvxLpc7y3V1m40wESHTgc1422pwwBSKYuI=
+github.com/klauspost/compress v1.20.2 h1:v5tiZvm1KGLyg5d5oXdXe3lsSPrbEUiKoXGia//I7Qo=
+github.com/klauspost/compress v1.20.2/go.mod h1:LUdAzn7YLVvxLpc7y3V1m40wESHTgc1422pwwBSKYuI=
 github.com/nats-io/nats.go v1.55.0 h1:Ng8QKHdvdHIWoaiq0+d/aH1BWkxvcJxWJ0Y/9BPKx3M=
 github.com/nats-io/nats.go v1.55.0/go.mod h1:y+DZoD1oBOYfZTU681eTUiUjI0vbqYGixNVFHcjHJ0k=
 github.com/nats-io/nkeys v0.4.16 h1:rd5oAuLOb8mnAycB0xleuEBNS1pVVnN0fv/FF34Eypg=
